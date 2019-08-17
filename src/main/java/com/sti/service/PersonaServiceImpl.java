@@ -16,5 +16,4 @@ public class PersonaServiceImpl implements IPersonaService{
 	public void registrar(String nombre) {
 		repo.registrar(nombre);
 	}
-	
 }
